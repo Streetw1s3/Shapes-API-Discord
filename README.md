@@ -6,6 +6,8 @@ Just install dependancies, npm install or npm install discord.js openai dotenv
 
 Edit the .env with your relevent bot info from discord.com/developers and shapes.inc, edit index.js to change what the bot is playing.
 
+If you get an Error 500 message in the console, try using the Account-Wide API key from Shapes instead of the Shape-Specific one. 
+
 Discord Bot requirements:
 Side menu > Bot > Privileged Gateway Intents - Enable all 3
 
