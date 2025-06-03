@@ -25,4 +25,6 @@ Copy the install link and paste it in your browser to invite the bot to your ser
 
 Shape voices and image generation works just as you remember it. But I don't have a freewill feature, yet, as this would likely exceed their rate limit very quickly. 
 
+You can host this in Visual Studio Code (like I do) or on any node.js server.
+
 Enjoy!
