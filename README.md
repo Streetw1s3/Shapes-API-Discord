@@ -4,7 +4,7 @@ This should comply with their ToS now as you are hosting your own API key and su
 
 Just install dependancies, npm install or npm install discord.js openai dotenv
 
-Edit the .env with your relevent bot info from discord.com/developers, edit index.js to change what the bot is playing.
+Edit the .env with your relevent bot info from discord.com/developers and shapes.inc, edit index.js to change what the bot is playing.
 
 Discord Bot requirements:
 Side menu > Bot > Privileged Gateway Intents - Enable all 3
