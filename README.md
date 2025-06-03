@@ -21,6 +21,6 @@ Copy the install link and paste it in your browser to invite the bot to your ser
 
 ! commands mentioned in their API doc now also work as / commands just as they used to. Some commands like !help, !dashboard, and !info have NOT been converted into slash commands and are not recommended to use since they would show info from Shapes.
 
-Shape voices and image generation works just as you remember it. But I don't have a freewill feature, yet. 
+Shape voices and image generation works just as you remember it. But I don't have a freewill feature, yet, as this would likely exceed their rate limit very quickly. 
 
 Enjoy!
