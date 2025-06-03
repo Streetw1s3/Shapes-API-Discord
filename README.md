@@ -2,7 +2,9 @@
 Since Discord banned Shapes from the platform I decided to make a self hosted node.js Discord chat bot designed to work with Shapes.inc API. 
 This should comply with their ToS now as you are hosting your own API key and such, but to be on the safe side there's no references to Shapes between the bot and Discord itself.
 
-Just install dependancies, edit the .env with your relevent bot info from discord.com/developers, edit index.js to change what the bot is playing.
+Just install dependancies, npm install or npm install discord.js openai dotenv
+
+Edit the .env with your relevent bot info from discord.com/developers, edit index.js to change what the bot is playing.
 
 Discord Bot requirements:
 Side menu > Bot > Privileged Gateway Intents - Enable all 3
