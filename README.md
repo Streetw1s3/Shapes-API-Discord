@@ -8,9 +8,13 @@ Discord Bot requirements:
 Side menu > Bot > Privileged Gateway Intents - Enable all 3
 
 Installation:
+
 Installation > Guild Install ONLY
+
 Scopes: application.commands, bot
+
 Permissions: Add Reactions, Attach Files, Embed Links, Read Message History, Send Messages, View Channels
+
 Copy the install link and paste it in your browser to invite the bot to your server. (I'm sure you already know this)
 
 ! commands mentioned in their API doc now also work as / commands just as they used to. Some commands like !help, !dashboard, and !info have NOT been converted into slash commands and are not recommended to use since they would show info from Shapes.
